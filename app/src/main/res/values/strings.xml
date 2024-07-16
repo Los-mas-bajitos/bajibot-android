@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">foodBotAndroid</string>
+    <string name="accept">Aceptar</string>
+    <string name="logo_sisvita">Logo Sisvita</string>
+    <string name="login">Login</string>
+    <string name="register">Registrar</string>
+    <string name="no_account">¿No tiene una cuenta?</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login_button">Login</string>
+    <string name="login_success">Login Success</string>
+    <string name="welcome_to_sisvita">Bienvenido a Sisvita</string>
+    <string name="error">Error</string>
+    <string name="please_fill_all_fields">Please, fill all fields</string>
+    <string name="login_in_progress">Login in progress</string>
+    <string name="loading">Loading</string>
+    <string name="already_account">¿Ya tiene una cuenta?</string>
+    <string name="register_button">Register</string>
+    <string name="register_success">Register Success</string>
+    <string name="register_in_progress">Register in progress</string>
+</resources>
