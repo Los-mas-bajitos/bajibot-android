@@ -10,9 +10,10 @@ import retrofit2.converter.gson.GsonConverterFactory
 import java.util.concurrent.TimeUnit
 
 object ApiRetrofit {
-    private const val BASE_URL = "http://10.0.2.2:5000/"
+    // private const val BASE_URL = "http://10.0.2.2:5000/"
     // private const val BASE_URL = "http://192.168.0.4:5000/"
     // private const val BASE_URL = "https://sisvita-g5-backend-1.onrender.com/"
+    private const val BASE_URL = "https://bajibot-backend.onrender.com/"
 
     private val client = OkHttpClient.Builder()
         .connectTimeout(60, TimeUnit.SECONDS)
